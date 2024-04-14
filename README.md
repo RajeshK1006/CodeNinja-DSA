@@ -21,9 +21,4 @@ To all aspiring Code Ninjas who stumble upon this sanctuary of code, take heed! 
 Feeling brave enough to take on the gauntlet? Dive into one of the problems I've conquered and see if you can emerge victorious! Or better yet, grab your coding buddies, challenge them to a coding duel, and may the best code ninja win!
 Now go forth, young coder, and may your code be as bug-free as a summer breeze!
 
-
-## 🚀 May the Source Be with You 🌌
-
-As you embark on your coding odyssey through this repository, may you find joy, laughter, and perhaps a snort or two at the whimsical musings of a slightly delirious Code Ninja. Remember, in the grand adventure of coding, the journey is just as important as the destination. So buckle up, embrace the chaos, and let's code our way to infinity and beyond!
-
 Happy coding, and may the source be with you, always! 🌟
