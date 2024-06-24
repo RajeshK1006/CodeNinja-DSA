@@ -1,6 +1,6 @@
 # CodeNinja-DSA
 
-## Hey there, visitor!!
+## Hey there, visitor!
 
 Welcome to my humble abode in the digital realm, where I, a self-proclaimed Code Ninja, have documented my daring escapades in the wild world of Data Structures and Algorithms. Prepare yourself for a rollercoaster ride filled with laughter, tears, and of course, code!
 
